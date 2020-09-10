@@ -64,6 +64,8 @@ navbar>h1{
     margin: 10px 2px;
     color: coral;
 }
-@media(min-width:200px){
-    
+@media screen and (max-width:200px){
+    .inputvalue{
+    width: 100px;
+    }
 }
